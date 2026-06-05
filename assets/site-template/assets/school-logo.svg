@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="School logo placeholder">
+  <circle cx="80" cy="80" r="70" fill="#eef6ff" stroke="#2b6ff2" stroke-width="8"/>
+  <path d="M35 70 80 46l45 24-45 24z" fill="#2b6ff2"/>
+  <path d="M52 86v25c16 11 40 11 56 0V86L80 101z" fill="#6aa8ff"/>
+  <text x="80" y="135" text-anchor="middle" fill="#18325d" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800">SCHOOL</text>
+</svg>
