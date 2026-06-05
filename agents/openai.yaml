@@ -1,0 +1,3 @@
+display_name: Resume Portfolio Template
+short_description: Build an anonymous, responsive resume portfolio website template.
+default_prompt: Create a deployable personal portfolio website from my resume and target role without leaking template-owner data.
