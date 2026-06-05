@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Social avatar placeholder">
+  <rect width="200" height="200" rx="100" fill="#ffe7ed"/>
+  <circle cx="100" cy="82" r="42" fill="#ff6d8e"/>
+  <path d="M46 176c9-40 31-62 54-62s45 22 54 62" fill="#2b6ff2"/>
+  <circle cx="85" cy="76" r="6" fill="#fff"/>
+  <circle cx="115" cy="76" r="6" fill="#fff"/>
+</svg>
