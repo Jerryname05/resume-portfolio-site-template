@@ -1,0 +1,28 @@
+{
+  "replacements": {
+    "Your Name": "Alex Chen",
+    "你的姓名": "陈小满",
+    "Your Name Space": "Alex Chen Space",
+    "👋 Hi，我是 Your Name": "👋 Hi，我是 Alex Chen",
+    "你的学校（学历） · 你的专业": "示例大学（本科） · 市场营销",
+    "辅修 / 交换 / 第二专业经历": "辅修：数字媒体传播",
+    "内容增长候选人": "新媒体运营候选人",
+    "欢迎来到我的个人网站！我会把经历、项目和数据证据整理成清晰的作品集，帮助招聘方快速理解我的能力。欢迎继续向下探索我的经历与作品。": "欢迎来到我的个人网站！我关注真实业务问题，擅长把经历、项目与数据证据整理成可落地的解决方案。欢迎继续向下探索我的经历与作品。",
+    "your.email@example.com": "alex@example.com",
+    "13800000000": "13800000000",
+    "你的城市，中国": "上海 / 深圳，中国",
+    "https://example.com/portfolio": "https://example.com",
+    "@你的社交主页 →": "@Alex 的社交主页 →",
+    "© 2026 Your Name · All rights reserved.": "© 2026 Alex Chen · All rights reserved."
+  },
+  "assets": {
+    "hero-placeholder.svg": "/absolute/path/to/hero-photo.jpg",
+    "secondary-hero-placeholder.svg": "/absolute/path/to/second-hero-photo.jpg",
+    "assets/contact-qr.svg": "/absolute/path/to/contact-qr.png",
+    "assets/social-avatar.svg": "/absolute/path/to/social-avatar.jpg",
+    "assets/school-logo.svg": "/absolute/path/to/school-logo.png",
+    "assets/company-logo-a.svg": "/absolute/path/to/company-logo-a.png",
+    "assets/company-logo-b.svg": "/absolute/path/to/company-logo-b.png",
+    "assets/company-logo-c.svg": "/absolute/path/to/company-logo-c.png"
+  }
+}
